@@ -1,3 +1,7 @@
+**DEPRECATED as of ruby-build 20130628**
+
+https://github.com/sstephenson/ruby-build/commit/86daa42931d16e01d665a841b05fcf3e7c170229
+
 # rbenv + ruby-build + homebrew + openssl
 
 A plugin for [rbenv](https://github.com/sstephenson/rbenv) and 
